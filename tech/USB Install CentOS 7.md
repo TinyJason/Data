@@ -5,9 +5,9 @@
    **注意**：U盘容量最好>=8G， 因为镜像就4.33G
    * UltraISO试用即可，参考如下：  
    **Step1**  
-   ![Step 1](file:///Users/jason/Documents/centos001.jpg)  
+   ![Step 1](https://github.com/TinyJason/Data/blob/master/tech/centos001.jpg)  
    **Step2**  
-   ![Step 1](file:///Users/jason/Documents/centos002.jpg)  
+   ![Step 1](https://github.com/TinyJason/Data/blob/master/tech/centos002.jpg)  
    关于选项**隐藏驱动分区** 默认 **无** 即可，写入时间较长，慢慢等待
 4. BIOS设为U盘启动  
    设置U盘启动过程中，貌似不是UEFI（我也不懂），参考别人教程打开BIOS CSM（Compatibility Support Module 即兼容性支持模块); 重启。
